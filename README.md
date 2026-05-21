@@ -125,19 +125,4 @@ The project also includes an interactive Power BI dashboard featuring:
 
 ---
 
-## Repository Structure
 
-```text
-Retail-Sales-Analysis-and-Profit-Prediction
-│
-├── notebooks/
-│   └── retail_sales_analysis.ipynb
-│
-├── dashboard/
-│   └── retail_dashboard.pbix
-│
-├── images/
-│   └── dashboard_preview.png
-│
-├── README.md
-└── requirements.txt
